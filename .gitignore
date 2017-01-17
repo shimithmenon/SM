@@ -1,0 +1,4 @@
+Hi,
+
+I am alooking for powershell script which can automate the windows images in openstack.Once we create an image, we launch some around 10 to 11 instance and validate before we moved this image to production and I need that to be automated in powershell.
+Does anyone know how to do that ?
